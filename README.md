@@ -6,7 +6,7 @@ ProjectDiamond
 
 ## Table of Contents: Learn How to Learn
 - Status: Ongoing
-- [Source:](https://shadowsilver07.github.io/Elizar---Build-your-own-X/)
+- [Source:]([https://shadowsilver07.github.io/Elizar---Build-your-own-X/](https://shadowsilver07.github.io/Projects/))
   - Youtube
   - Github
   - [Learn Web Development FREE and Actually Get Hired](youtube.com/watch?v=14-xBLhZ4AE) - Next
